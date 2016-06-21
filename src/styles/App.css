@@ -1,0 +1,30 @@
+html body {
+  width:100%;
+  height:100%;
+  background-color: #222;
+}
+#app{
+  position: relative;
+  width: 100%;
+  height:100%;
+}
+.pic{
+  position:absolute;
+  width:320px;
+  height:360px;
+  margin:0;
+  padding:40px;
+  background-color: #fff;
+}
+.pic img {
+  width : 240px;
+  height : 260px;
+  margin : 0;
+  padding : 0;
+}
+.pic img-title{
+  height:30px;
+}
+.pic img-desc{
+
+}
